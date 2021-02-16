@@ -1,0 +1,3 @@
+﻿  Chapter8.cpp
+C:\Users\Hp\source\repos\OpenCV2CourseYT\OpenCV2CourseYT\Chapter8.cpp(13,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCV2CourseYT.vcxproj -> C:\Users\Hp\source\repos\OpenCV2CourseYT\x64\Debug\OpenCV2CourseYT.exe
